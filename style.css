@@ -1,0 +1,49 @@
+h1{
+    color: mediumorchid; 
+    font-size: 50px;
+    }
+ h2{
+    color: mediumorchid;
+    font-size: 30px;
+    }
+.git{
+    display: flex;
+    justify-content: center;
+    color: mediumorchid;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.test{
+background-color: lightpink;
+display: flex;
+justify-content: center;
+justify-content: space-between;
+padding: 40px;
+border-style: solid;
+border-color: darkorchid;
+}
+a{
+display: flex;
+color:mediumorchid;
+font-size: 20px;
+}
+h4{
+display: flex;
+color: mediumorchid;
+font-size: 40px;
+justify-content: center;
+}
+.image{
+display: flex;
+justify-content: center;
+}
+img{
+border-style: solid;
+border-color: darkorchid;
+}
+body{
+    background-color: powderblue;
+    font-size: medium;
+    font-style: oblique;
+}
